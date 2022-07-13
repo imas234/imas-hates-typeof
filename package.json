@@ -1,0 +1,20 @@
+{
+  "name": "imas-hates-typeof",
+  "version": "1.0.0",
+  "description": "Wrapper for typeof and helper functions for type checking",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imas234/imas-hates-typeof.git"
+  },
+  "author": "imas234",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imas234/imas-hates-typeof/issues"
+  },
+  "homepage": "https://github.com/imas234/imas-hates-typeof#readme"
+}
